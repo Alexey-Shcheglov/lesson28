@@ -3,12 +3,12 @@
     {
       "brand": "bmw",
       "model": "M5",
-      "price": 51000
+      "price": 55000
     },
     {
       "brand": "volvo",
       "model": "V90",
-      "price": 61000
+      "price": 59000
     }
   ]
 }
